@@ -6,6 +6,7 @@ Fun commands for Axis.
 
 - ping `Ping yourself!`
 - spam `Spam your current channel!`
+- cat `send random cat pics` (This requires [`random-cat`](https://www.npmjs.com/package/random-cat))
 
 ## Installation
 
