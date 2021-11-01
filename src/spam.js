@@ -8,7 +8,7 @@ module.exports = new create();
 
 function create(){
     let language = {};
-    this.versions = ['1.1.0', '1.1.1'];
+    this.versions = ['1.1.0', '1.1.1', '1.1.2'];
     this.arguments = {
         count: {
             required: false,

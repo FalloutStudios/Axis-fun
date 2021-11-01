@@ -9,6 +9,12 @@ Fun commands for Axis.
 - cat `send random cat pics` (This requires [`random-animals-api`](https://www.npmjs.com/package/random-animals-api))
 - dog `send random dog pics` (This requires [`random-animals-api`](https://www.npmjs.com/package/random-animals-api))
 
+### Supported Versions
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
 ## Installation
 
 1. Download the supported version for your bot.
